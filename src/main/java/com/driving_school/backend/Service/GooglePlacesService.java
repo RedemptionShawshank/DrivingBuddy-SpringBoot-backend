@@ -35,7 +35,7 @@ import org.json.JSONObject;
 
 public class GooglePlacesService {
 
-    private static final String API_KEY = "AIzaSyBUWMiQNTZrOiVSbJXIJ9lfPDV2Jnq3Z_g";
+    private static final String API_KEY = "";
     private static final String FIND_PLACE_API_URL = "https://maps.googleapis.com/maps/api/place/findplacefromtext/json";
     private static final String PLACE_DETAILS_API_URL = "https://maps.googleapis.com/maps/api/place/details/json";
     private static final String PLACE_PHOTO_URL = "https://maps.googleapis.com/maps/api/place/photo";
